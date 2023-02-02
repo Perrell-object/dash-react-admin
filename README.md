@@ -30,6 +30,8 @@ For more of my work visit:
 
 ---
 
-[cs50 course](https://perrellshaw.netlify.app/)
+[Personal Profile](https://perrellshaw.netlify.app/)
+
+[What it looks like](images/dashboard.png)
 
 # dash-react-admin
