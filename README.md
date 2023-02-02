@@ -1,6 +1,6 @@
 # Plack - Ecommerce Admin Dashboard
 
-![banner](/images/carbonplack01.png)
+![banner](/images/plackbanner.png)
 
 ### Description
 
@@ -20,7 +20,7 @@ financial summary.
 
 ### Code Snippet
 
-![code snippet](images/plackbanner.png)
+![code snippet](images/carbonplack01.png)
 
 ### Links
 
