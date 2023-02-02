@@ -22,6 +22,8 @@ financial summary.
 
 ![code snippet](images/carbonplack01.png)
 
+![code snippet](images/dashboard.png)
+
 ### Links
 
 For more of my work visit:
@@ -31,7 +33,5 @@ For more of my work visit:
 ---
 
 [Personal Profile](https://perrellshaw.netlify.app/)
-
-[What it looks like](images/dashboard.png)
 
 # dash-react-admin
